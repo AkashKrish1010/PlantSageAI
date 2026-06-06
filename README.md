@@ -55,6 +55,8 @@ When the app detects a toxic look-alike, it instantly interrupts the flow with a
 
 ### Core Interfaces & Workflows
 
+<div align="center">
+
 | Home Dashboard | Camera Classification | Ayurvedic Ailment Search |
 | :---: | :---: | :---: |
 | <img src="app-images/home.jpeg" alt="Home Screen" height="480" /> | <img src="app-images/identifyplant.jpeg" alt="Identify Plant Screen" height="480" /> | <img src="app-images/symptom-remedy.jpeg" alt="Symptom Remedy Screen" height="480" /> |
@@ -62,6 +64,8 @@ When the app detects a toxic look-alike, it instantly interrupts the flow with a
 | Herb Location Mapping | User Authentication | Profile Creation |
 | :---: | :---: | :---: |
 | <img src="app-images/savedplants-map.jpeg" alt="Saved Plants Map Screen" height="480" /> | <img src="app-images/login.jpeg" alt="Login Screen" height="480" /> | <img src="app-images/signup.jpeg" alt="Signup Screen" height="480" /> |
+
+</div>
 
 ---
 
